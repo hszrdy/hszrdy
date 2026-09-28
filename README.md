@@ -27,3 +27,7 @@ I am currently furthering my knowledge by learning:
 - Node.js and React.js through [TheOdinProject](https://www.theodinproject.com/)
 - ASP.NET Core
 - Spring Boot
+
+## Contact
+
+**Email:** jjp.hszrdy.dev@gmail.com
