@@ -15,7 +15,7 @@ For my short-term goals, I am interested in building applications around my hobb
 
 **APIs & Automation:** REST API, n8n (workflow automation)
 
-**Tools & Platforms:** Git/GitHub, Visual Studio, Android Studio, Unity Engine, Microsoft Office (Word, Excel, PowerPoint)
+**Tools & Platforms:** Git/GitHub, Visual Studio, Android Studio, Unity Engine
 
 **Methodologies:** Agile (Scrum, Kanban)
 
