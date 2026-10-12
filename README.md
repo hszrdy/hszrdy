@@ -28,6 +28,10 @@ I am currently furthering my knowledge by learning:
 - ASP.NET Core
 - Spring Boot
 
+## Repositories
+
+- [Projects](https://github.com/hszrdy?tab=repositories)
+
 ## Contact
 
 **Email:** jjp.hszrdy.dev@gmail.com
