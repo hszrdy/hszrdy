@@ -9,7 +9,7 @@ For my short-term goals, I am interested in building applications around my hobb
 
 **Languages:** C#, Java, C, C++, JavaScript, Python, Dart, HTML, CSS
 
-**Frameworks & Libraries:** .NET, Flutter, Java Servlets, Electron.js, TailwindCSS
+**Frameworks & Libraries:** .NET, Flutter, Java Servlets, Electron.js, TailwindCSS, React
 
 **Databases:** SQLite, MySQL, MS SQL, Firebase
 
